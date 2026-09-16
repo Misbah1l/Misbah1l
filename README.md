@@ -237,25 +237,19 @@ AI tools, prompting and AI-assisted workflows.
 
 ---
 
----
-
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Misbah1l&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Misbah's GitHub Stats"
-/>
+[![Misbah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Misbah1l&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Misbah1l)
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah1l&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Misbah's Top Languages"
-/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah1l&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Misbah1l)
 
 </div>
 
+
 ---
+
 
 ## 🔥 Contribution Streak
 
@@ -267,18 +261,7 @@ AI tools, prompting and AI-assisted workflows.
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Misbah1l&theme=tokyo-night&hide_border=true&area=true"
-  alt="Misbah's Contribution Activity"
-/>
-
-</div>
-
----
 
 ## 🧩 What I'm Working Towards
 
