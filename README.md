@@ -222,9 +222,9 @@ AI tools, prompting and AI-assisted workflows.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Misbah1l&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah1l&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -234,7 +234,7 @@ AI tools, prompting and AI-assisted workflows.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Misbah1l&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -244,7 +244,7 @@ AI tools, prompting and AI-assisted workflows.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Misbah1l&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -269,8 +269,9 @@ while gradually expanding into practical AI-powered applications.
 🤝 Let's Connect
 <div align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> </div>
 <div align="center">
+  
 💜 Building. Learning. Improving.
 
 ⭐ If you find something useful here, feel free to explore my repositories.
 
-</div> ```
+</div> 
