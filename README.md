@@ -237,16 +237,15 @@ AI tools, prompting and AI-assisted workflows.
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![Misbah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Misbah1l&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Misbah1l)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah1l&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Misbah1l)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Misbah1l&theme=tokyonight" alt="GitHub Profile Summary" />
 
 </div>
-
 
 ---
 
