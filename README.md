@@ -1,135 +1,276 @@
-# Hi 👋, I'm Misbah
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         PROFILE HEADER                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-### BS Computer Science Student | Python Developer | Software Development | AI/ML Enthusiast
+<div align="center">
 
-I'm a Computer Science student at the **Institute of Space Technology (IST), Islamabad**, interested in building practical software and exploring the intersection of **software development, AI/ML, and web technologies**.
+# 👋 Hi, I'm **Misbah Saeed**
 
-I enjoy turning ideas into working applications — from backend APIs and automation workflows to AI-powered applications and web interfaces.
+### `BS Computer Science Student` • `Python Developer` • `Software Development` • `AI/ML Enthusiast`
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7C3AED&style=flat-square" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
+
+I'm a **Computer Science student** interested in building practical software
+and exploring the intersection of **software development and AI**.
+
+- 🎓 Currently pursuing **BS Computer Science**
+- 💻 Interested in **Software & Web Development**
+- 🐍 Working with **Python** and backend technologies
+- 🤖 Exploring **AI/ML, NLP, LLM applications & AI automation**
+- 🧠 Learning how to build useful AI-powered applications
+- 🌱 Continuously improving my development and problem-solving skills
+- 🔧 I enjoy turning ideas into functional projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-6E57E0?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Automation-06B6D4?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge&logo=probot&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+# 💡 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Customer Request Triage
+
+An AI-powered backend application designed to
+classify, validate and route customer support
+requests.
+
+**Built with:**
+
+`Python` `FastAPI` `OpenRouter` `SQLite`
+
+</td>
+
+<td width="50%">
+
+### ⚡ Task Management API
+
+A backend REST API for creating and managing
+tasks with database persistence.
+
+**Built with:**
+
+`Python` `FastAPI` `SQLite` `REST API`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 AI Language Translation Tool
+
+An AI-focused application exploring
+language processing and automated translation.
+
+**Focus:**
+
+`Python` `NLP` `AI`
+
+</td>
+
+<td width="50%">
+
+### 🧑‍💻 Personal Portfolio
+
+A personal developer portfolio showcasing
+projects, skills, experience and an AI-powered
+interaction layer.
+
+**Focus:**
+
+`Web Development` `AI` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Education
+
+🎓 **Bachelor of Science in Computer Science**
+
+**Institute of Space Technology (IST)**  
+`2024 — 2028`
+
+---
+
+## 🏆 Certifications & Learning
+
+<table>
+<tr>
+<td>
+
+### Backend AI Engineering
+
+**FlyRank**
+
+Backend development with AI integration,
+APIs and AI-powered application workflows.
+
+</td>
+<td>
+
+### AI Fluency
+
+**FlyRank**
+
+Practical exploration of AI concepts,
+AI tools, prompting and AI-assisted workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Advanced%20Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Applications-7C3AED?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Integration-9333EA?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Automation-06B6D4?style=flat-square&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat-square&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend%20Development-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
+
+---
+
+## 🎯 Areas of Interest
+
+<table>
+<tr>
+<td align="center">🤖<br><b>Artificial Intelligence</b></td>
+<td align="center">🧠<br><b>Machine Learning</b></td>
+<td align="center">💻<br><b>Software Development</b></td>
+</tr>
+<tr>
+<td align="center">🌐<br><b>Web Development</b></td>
+<td align="center">⚙️<br><b>Backend Engineering</b></td>
+<td align="center">🔗<br><b>AI Automation</b></td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🧩 What I'm Working Towards
 
 ```text
-name:          Misbah
-degree:        BS Computer Science
-university:    Institute of Space Technology (IST)
-focus:         Software Development • Python • AI/ML • Web Development
-interests:     AI Applications • Automation • Backend Development • Frontend
-currently:     Learning AI Automation, LLM Applications & Prompt Engineering
-🎓 Pursuing BS Computer Science at Institute of Space Technology
-🐍 Working primarily with Python
-💻 Interested in software and web development
-🤖 Exploring AI/ML, LLM applications and AI automation
-🔧 Building backend applications with FastAPI and APIs
-🌐 Developing frontend and web interfaces
-📚 Continuously learning and improving through hands-on projects
-🛠️ Tech Stack
-Languages
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Web & Backend
-
-
-
-
-
-
-
-
-AI / ML
-
-
-
-
-
-
-
-
-Tools & Platforms
-
-
-
-
-
-
-
-
-
-
-🚀 Featured Projects
-🤖 AI Customer Request Triage
-
-An AI-powered customer support workflow that classifies, validates and routes incoming customer requests, with high-risk or low-confidence requests sent for human review.
-
-Tech: Python • FastAPI • OpenRouter • SQLite • Background Tasks
-
-🔧 Task Management API
-
-A backend REST API for managing tasks with database persistence and API-based operations.
-
-Tech: Python • FastAPI • SQLite • REST API
-
-🌐 AI Language Translation Tool
-
-An AI-based application focused on translating text between languages while exploring practical NLP and AI application development.
-
-Tech: Python • NLP • AI
-
-💻 Personal Portfolio & AI Agent
-
-A personal portfolio project combining a developer profile with an AI-powered interaction layer.
-
-Tech: HTML • CSS • JavaScript • Python • FastAPI • LLM Applications
-
-📜 Certifications
-Backend AI Engineering — FlyRank
-AI Fluency — FlyRank
-📚 Currently Learning
-AI Automation
-LLM Applications
-Prompt Engineering
-Frontend Development
-Modern Web Development
-Backend API Development
-🎯 Areas of Interest
-
 Software Development
-
-Python
-
-Artificial Intelligence
-
-Machine Learning
-
-LLM Applications
-
-AI Automation
-
+        ↓
 Web Development
+        ↓
+Backend Engineering
+        ↓
+AI / ML Applications
+        ↓
+AI Automation & Intelligent Systems
 
-Backend Development
+I'm focused on building a strong foundation in software engineering
+while gradually expanding into practical AI-powered applications.
 
-Frontend Development
-
-NLP
-
-📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Misbah1l&show_icons=true&hide_border=true&theme=transparent" alt="Misbah's GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah1l&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"> </p>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misbah1l&hide_border=true&area=true" alt="GitHub Contribution Graph"> </p>
 🤝 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/Misbah1l"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </p>
-<p align="center"> <i>Building, learning, and experimenting with software and AI.</i> </p> ```
+<div align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> </div>
+<div align="center">
+💜 Building. Learning. Improving.
+
+⭐ If you find something useful here, feel free to explore my repositories.
+
+</div> ```
