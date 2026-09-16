@@ -12,7 +12,7 @@
   <a href="https://github.com/Misbah1l">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/misbah-saeed-4272b83a9">
+  <a href="https://www.linkedin.com/in/misbah-saeed-4272b83a9">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://sps-portfolio-three.vercel.app/">
@@ -41,6 +41,25 @@ and exploring the intersection of **software development and AI**.
 
 ---
 
+## 💼 Experience
+
+### 🌐 Front-End Web Development Intern
+**SPS — Software Development / Front-End Web Development**
+
+- Worked on front-end web development tasks and practical website development.
+- Applied HTML, CSS and JavaScript concepts to build and improve web interfaces.
+- Practiced responsive layouts, UI structure and modern web development workflows.
+
+---
+
+### 🤖 Backend AI Engineering Intern
+**FlyRank**
+
+- Worked on backend development and AI engineering tasks.
+- Built and worked with REST APIs, FastAPI and database-backed applications.
+- Explored AI-powered workflows and LLM application development.
+
+---
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -218,13 +237,15 @@ AI tools, prompting and AI-assisted workflows.
 
 ---
 
-# 📊 GitHub Statistics
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Misbah1l&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Misbah1l&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah1l&layout=compact&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah1l&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
